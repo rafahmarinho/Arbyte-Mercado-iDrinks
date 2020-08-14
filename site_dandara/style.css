@@ -1,0 +1,88 @@
+#icone-banner {
+    height: 10px;
+    background: rgb(21, 80, 21);
+    color: white;
+    width: 100%;
+    padding: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+#navBar {
+    background: black;
+    padding: 10px;
+    font-size: 30px;
+}
+
+p, h2, h3 {
+    text-align: center;
+    font-size: 25px;
+    font-family: fantasy;
+    font-style: italic;
+    flex-direction: row;
+}
+
+.frutasELaticinios {
+    text-align: left;
+    font-size: 25px;
+}
+
+#frutas  {
+    display: flex;
+    justify-content: space-around;
+}
+
+#laticinios {
+    display: flex;
+    justify-content: space-around;
+}
+
+.promocoes {
+    font-size: 35px;
+}
+
+#carouselExampleControls, .carousel-item {
+    width: 50%;
+    height: 50%;
+    margin: 10px auto;
+    display:flex;
+}
+
+#formulario {
+    font-size: 27px;
+    font-style: italic;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+}
+
+.card {
+    width: 18rem;
+}
+
+button {
+    width: 50%;
+    text-align: center;
+}
+/*input quantidade dos produtos */
+#quantidadeMorango, #quantidadeKiwi, #quantidadeLichia,#quantidadeManga, #quantidadePitaia,
+#quantidadeManteiga, #quantidadeRequeijao, #quantidadeIogurte, #quantidadeLeiteCondensado,
+#quantidadeLeiteFermentado {
+    width: 30%
+}
+
+/* botão comprar produtos */
+#comprarMorango:hover, #comprarKiwi:hover, #comprarLichia:hover, #comprarManga:hover, #comprarPitaia:hover, 
+#comprarManteiga:hover, #comprarRequeijao:hover, #comprarIogurte:hover, #comprarLeiteCondensado:hover, 
+#comprarLeiteFermentado:hover {
+   float: left;
+   border-color: rgb(21, 80, 21);
+   border-radius: 10px;
+}
+
+.form-check-input, .form-check-label {
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+    cursor: pointer;
+}
