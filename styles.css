@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(rgb(220, 243, 237), rgb(219, 247, 120));
+    height: 100vh
+}
+.card-img-top{
+    border-bottom: 1px solid;
+    border-radius: .8rem;
+}
+.card{
+    border: 1px solid  grey;
+    border-radius: .8rem;
+    margin: 15px auto;
+}
+
+.logo{
+    border-radius: 50%;
+    height:5rem;
+    width: 10rem;
+}
+
+.poppinsFont {
+    font-family: Poppins;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.col-xs-12.col-sm-6.col-md-4.col-lg-3.card {
+    margin: 8px;
+}
