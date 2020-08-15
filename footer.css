@@ -20,7 +20,7 @@ body {
   body .footer .bubbles {
     position: fixed;
     top: 100vh;
-    width: 900%;
+    width: 1000%;
     left: 0;
     right: 0;
     height: 1rem;
