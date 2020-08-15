@@ -1,0 +1,389 @@
+{
+    "categorias": [
+    {
+        "cachaca" :[
+            {
+                "id": 1,
+                "name": "Ypióca",
+                "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+                "price": "16.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 2,
+                "name": "Cabaré",
+                "description": "CACHAÇA CABARÉ OURO - 700ml",
+                "price": "26.99",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 3,
+                "name": "51",
+                "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
+                "price": "9.29",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 4,
+                "name": "Dama da Noite - Caveira",
+                "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
+                "price": "89.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 5,
+                "name": "Velho Barreiro",
+                "description": "AGUARDENTE BRANCA VELHO BARREIRO - 910ml",
+                "price": "14.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "cerveja":[
+            {
+                "id": 1,
+                "name": "Skol",
+                "description": "CERVEJA SKOL LATA - 269ml",
+                "price": "1.99",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 2,
+                "name": "Brahma",
+                "description": "CERVEJA BRAHMA PILSEN LARGER LATA - 473ml",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 3,
+                "name": "Budweiser",
+                "description": "CERVEJA BUDIVIÉSER GARRAFA - 330ml ",
+                "price": "3.29",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 4,
+                "name": "Heineken",
+                "description": "CERVEJA HEINEKEN LATA - 350ml",
+                "price": "3.69",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 5,
+                "name": "Brahma Duplo Malte",
+                "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
+                "price": "2.79",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "champanhe":[
+            {
+                "id": 1,
+                "name": "Chandon",
+                "description": "CHANDON RÉSERVE BRUT - 750ml",
+                "price": "65.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 2,
+                "name": "Sidra",
+                "description": "SIDRA CERESER - 660ml",
+                "price": "8.60",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 3,
+                "name": "Jeroboam Veuve Clicquot",
+                "description": "CHAMPAGNE JEROBOAM VEUVE CLICQUOT BRUT C/ CAIXA DE MADEIRA - 3000ml",
+                "price": "2799.99",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 4,
+                "name": "San Martin",
+                "description": "ESPUMANTE SAN MARTIN MOSCATEL - 660ml",
+                "price": "16.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 5,
+                "name": "Saint Germain",
+                "description": "ESPUMANTE SAINT GERMAIN ROSÉ DEMI-SEC - 660ml",
+                "price": "19.90",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "conhaque":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "gim" :[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "rum":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "tequila":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "vinho":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+
+        "vodka":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+        ],
+        
+        "whisky":[
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 1,
+                "name": "Maçã",
+                "description": "",
+                "price": "2.30",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            }
+
+        ]
+     }
+    ],
+    "carrinho": [
+
+    ]
+}
