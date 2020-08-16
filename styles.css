@@ -51,6 +51,7 @@ div.card-body{
     margin: 8px;
 }
 
+<<<<<<< HEAD
 nav.navbar.navbar-expand-lg.navbar-light { 
     background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
     
@@ -68,3 +69,8 @@ img.d-block {
     background-color: #670000;
     color: #e2e2e2;
 } /*Retirado o footer de bolha e colocado um footer normal*/
+=======
+nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: bisque;
+}
+>>>>>>> rafa

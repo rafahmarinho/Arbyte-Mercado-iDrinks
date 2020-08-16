@@ -118,36 +118,36 @@
         "conhaque":[
             {
                 "id": 1,
-                "name": "Maçã",
-                "description": "",
+                "name": "President",
+                "description": "CONHAQUE DE GENGIBRE PRESIDENT - 970ml",
+                "price": "14.99",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 2,
+                "name": "Hennessy",
+                "description": "CONHAQUE HENNESSY X.O - 700ml",
+                "price": "1999.00",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 3,
+                "name": "Dreher",
+                "description": "CONHAQUE DE GENGIBRE DREHER - 900ml",
+                "price": "18.99",
+                "photo": "URL ou o caminho do arquivo no seu projeto"
+            },
+            {
+                "id": 4,
+                "name": "Armagnac Saint-Vivant",
+                "description": "CONHAQUE ARMAGENAC SAINT-VIVANT VSOP - 700ml",
                 "price": "2.30",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             },
             {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
+                "id": 5,
+                "name": "Stock - Curaçau Blue",
+                "description": "LICOR CURAÇAU BLUE - 720ml",
                 "price": "2.30",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             }
@@ -156,37 +156,37 @@
         "gim" :[
             {
                 "id": 1,
-                "name": "Maçã",
-                "description": "",
+                "name": "Tanqueray London Dry",
+                "description": "GIN TANQUERAY LONDON DRY - 750ml",
                 "price": "2.30",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             },
             {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
+                "id": 2,
+                "name": "Torquay",
+                "description": "GIN TORQUAY - 740ml",
+                "price": "79.99",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             },
             {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
+                "id": 3,
+                "name": "Seagers",
+                "description": "GIN SEAGERS - 980ml",
+                "price": "29.30",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             },
             {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
+                "id": 4,
+                "name": "Gordons Pink",
+                "description": "GIN GORDONS PINK - 700ml",
+                "price": "94.90",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             },
             {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
+                "id": 5,
+                "name": "Bulldog",
+                "description": "GIN BULLDOG - 750ml",
+                "price": "179.90",
                 "photo": "URL ou o caminho do arquivo no seu projeto"
             }
         ],
