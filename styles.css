@@ -1,8 +1,9 @@
 body {
-    background-image: linear-gradient(rgb(220, 243, 237), rgb(219, 247, 120));
+    background-color:#f4eded;
     height: 100vh;
     
 }
+
 .card-img-top{
     border-bottom: 1px solid;
     border: .8rem;
@@ -53,7 +54,7 @@ div.card-body{
 
 nav.navbar.navbar-expand-lg.navbar-light { 
     background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
-    
+    color:#e2e2e2
 }
 
 img.d-block {
