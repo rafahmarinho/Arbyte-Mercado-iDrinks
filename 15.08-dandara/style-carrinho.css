@@ -1,0 +1,56 @@
+body, form, h2 {
+    padding: 20px;
+    color:#670000;
+    width: 100%;
+    height: 100%;
+ 
+}
+
+#formulario {
+    font-size: 27px;
+    font-style: italic;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+input, #inputCEP, #inputAddress, #inputAddress2, #inputCity, #inputEstado {
+    border-color: black;
+}
+
+.cep {
+    width: 130px;
+    border-radius: 10px;
+}
+
+/* colocando borda nos inputs */
+/* input, #inputCEP, #inputEmail4, #inputPassword4, #h3Valor, 
+#inputAddress, #inputAddress2, #inputCity {
+    width: 80%;
+} */
+
+/* check box */
+#gridCheck, .offset-lg-2, .form-check-input {
+    margin: 15.5px;
+    margin-top: 25.5px;
+    background: black;
+}
+
+/* mensagem do check box */
+.form-check-label {
+    margin: 0 0 0 20px;
+    padding: 20px; 
+}
+
+/*botão cadastrar */
+#comprar-bt { text-align: center; }
+.botao-comprar {    
+    width: 70%;
+    height: 60px;
+    margin: 10px 50px 0px 50px;
+    color:#670000;
+    border-radius: 10px;
+    border-color: #670000;
+    font-size: 25px;   
+}    
