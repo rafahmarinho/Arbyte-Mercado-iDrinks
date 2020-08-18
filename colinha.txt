@@ -1,0 +1,10 @@
+category = 1 -- cachaça
+           2 -- cerveja
+           3 -- champanhe
+           4 -- conhaque
+           5 -- gin
+           6 -- rum 
+           7 -- tequila
+           8 -- vinho
+           9 -- vodka
+           10 - whisky

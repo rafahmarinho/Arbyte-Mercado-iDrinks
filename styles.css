@@ -52,6 +52,19 @@ div.card-body {
     margin: 8px;
 }
 
+<<<<<<< HEAD
+=======
+nav.navbar.navbar-expand-lg.navbar-light { 
+    background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
+
+}
+
+#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
+    text-decoration: none;
+    color: #e2e2e2;
+}
+
+>>>>>>> rafa
 img.d-block {
     width: 1150px;
     height: 400px;
