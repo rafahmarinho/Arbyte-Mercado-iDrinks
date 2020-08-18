@@ -1,0 +1,14 @@
+nav.navbar.navbar-expand-lg.navbar-light { 
+    background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
+}
+
+/* mudando as categorias para a cor #670000 e a cor de fundo para a #e2e2e2...*/
+.dropdown-menu, .dropdown-item {
+    color: #670000;
+    background: #e2e2e2;
+}
+
+#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
+    text-decoration: none;
+    color: #e2e2e2;
+}

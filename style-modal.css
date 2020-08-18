@@ -47,10 +47,10 @@
     cursor: pointer;
 }
 /*cabeçalho */
-div .modal-header {
+h2, .modal-header {
     padding: 0px;
     background-color: #670000;
-    color: #fefefe; 
+    color:#e2e2e2; 
     display: inline-block;
     width: 100%;
 }
@@ -63,12 +63,12 @@ div .modal-header {
     margin-top: 100%;
     padding: 0px;
     background-color:#670000;
-    color: black;
+    color: #e2e2e2;
     height: 100px;
 }
 
 #ver-carrinho{
-  background-color:#fefefe;
+  background-color:#e2e2e2;
   color:#670000;
   width: 50%;
   margin-top: 12px;

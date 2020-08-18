@@ -4,7 +4,7 @@ body {
     
 }
 
-.card-img-top{
+.card-img-top {
     border-bottom: 1px solid;
     border: .8rem;
 }
@@ -20,15 +20,15 @@ body {
     
 }/* Mudando a cor do texto do botão antes do click e a cor do botão- 15-08*/
     
-div.card-body{
+div.card-body {
         background-color:#670000;
 } /*Alterado cor do card*/
     
-.card-title{
+.card-title {
     color: #e2e2e2
 }/*alterado cor dos textos cards de preto para branco*/
     
-.card-text{
+.card-text {
     color: #e2e2e2
 }/*alterado cor dos textos cards de preto para branco*/
 
@@ -52,26 +52,33 @@ div.card-body{
     margin: 8px;
 }
 
-nav.navbar.navbar-expand-lg.navbar-light { 
-    background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
-
-}
-
-#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
-    text-decoration: none;
-    color: #e2e2e2;
-}
-
 img.d-block {
     width: 1150px;
     height: 400px;
 } /* Adicionado Dimensões do carousel 15-08*/ 
 
-.bg-footer{
+/* .bg-footer{
     background-color: #670000;
     color: #e2e2e2;
-} /*Retirado o footer de bolha e colocado um footer normal*/
+} Retirado o footer de bolha e colocado um footer normal */
 
 #quantity{
     margin: 5px;
+}
+/*configurando rodapé*/
+footer {
+    text-align: center;
+    width: 100%;
+    background-color: #670000;
+}
+
+.copyright {
+	color: #e2e2e2;
+	font-size: 20px;
+    margin: 20px 0 0;
+    
+}
+img {
+    width: 150px;
+
 }
