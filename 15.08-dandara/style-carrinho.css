@@ -1,9 +1,16 @@
-body, form, h2 {
+form, h2 {
     padding: 20px;
     color:#670000;
+    background-color: #e2e2e2;
     width: 100%;
     height: 100%;
  
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #e2e2e2;
 }
 
 #formulario {
@@ -44,8 +51,8 @@ input, #inputCEP, #inputAddress, #inputAddress2, #inputCity, #inputEstado {
 }
 
 /*botão cadastrar */
-#comprar-bt { text-align: center; }
-.botao-comprar {    
+#comprar-bt { 
+    text-align: center;
     width: 70%;
     height: 60px;
     margin: 10px 50px 0px 50px;
@@ -54,3 +61,17 @@ input, #inputCEP, #inputAddress, #inputAddress2, #inputCity, #inputEstado {
     border-color: #670000;
     font-size: 25px;   
 }    
+
+/* configurando rodapé*/
+footer {
+    text-align: center;
+    width:100%;
+    background-color: #670000
+}
+
+.copyright {
+	color: #fefefe;
+	font-size: 15px;
+    margin: 20px 0 0;
+    
+}
