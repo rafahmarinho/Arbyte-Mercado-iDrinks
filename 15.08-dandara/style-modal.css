@@ -47,12 +47,12 @@
     cursor: pointer;
 }
 /*cabeçalho */
-.modal-header {
-    padding: 2px 16px;
-    background: #670000;;
-    color:black;
-    text-align: center;
-    display: block;  
+div .modal-header {
+    padding: 0px;
+    background-color: #670000;
+    color: #fefefe; 
+    display: inline-block;
+    width: 100%;
 }
 /*corpo */
 .modal-body {
@@ -61,16 +61,17 @@
 /* rodapé */
 .modal-footer {
     margin-top: 100%;
-    padding: 2px 16px;
+    padding: 0px;
     background-color:#670000;
     color: black;
     height: 100px;
 }
 
 #ver-carrinho{
-  background-color:white;
+  background-color:#fefefe;
   color:#670000;
-  width: 100%;
+  width: 50%;
+  margin-top: 12px;
 }
 
 /* Add Animation */
