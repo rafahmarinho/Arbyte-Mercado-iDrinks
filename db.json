@@ -1,387 +1,410 @@
 {
     "categorias": [
-    {
-        "cachaca" :[
-            {
-                "id": 1,
-                "name": "Ypióca",
-                "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
-                "price": "16.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 2,
-                "name": "Cabaré",
-                "description": "CACHAÇA CABARÉ OURO - 700ml",
-                "price": "26.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 3,
-                "name": "51",
-                "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
-                "price": "9.29",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 4,
-                "name": "Dama da Noite - Caveira",
-                "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
-                "price": "89.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 5,
-                "name": "Velho Barreiro",
-                "description": "AGUARDENTE BRANCA VELHO BARREIRO - 910ml",
-                "price": "14.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
+        {
+            "id": 1,
+            "name": "Ypióca",
+            "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+            "price": "16.90",
+            "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+            "category":"1"
+        },
+        {
+            "id": 2,
+            "name": "Cabaré",
+            "description": "CACHAÇA CABARÉ OURO - 700ml",
+            "price": "26.99",
+            "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+            "category":"1"
+        },
+        {
+            "id": 3,
+            "name": "51",
+            "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
+            "price": "9.29",
+            "photo": "./img/produtos/cachaca/cachaca_51.webp",
+            "category":"1"
+        },
+        {
+            "id": 4,
+            "name": "Dama da Noite - Caveira",
+            "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
+            "price": "89.90",
+            "photo": "./img/produtos/cachaca/cachaca_dama-da-noite.webp",
+            "category":"1"
+        },
+        {
+            "id": 5,
+            "name": "Velho Barreiro",
+            "description": "AGUARDENTE BRANCA VELHO BARREIRO - 910ml",
+            "price": "14.90",
+            "photo": "./img/produtos/cachaca/cachaca_velho-barreiro.webp",
+            "category":"1"
+        },
 
-        "cerveja":[
-            {
-                "id": 1,
-                "name": "Skol",
-                "description": "CERVEJA SKOL LATA - 269ml",
-                "price": "1.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 2,
-                "name": "Brahma",
-                "description": "CERVEJA BRAHMA PILSEN LARGER LATA - 473ml",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 3,
-                "name": "Budweiser",
-                "description": "CERVEJA BUDIVIÉSER GARRAFA - 330ml ",
-                "price": "3.29",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 4,
-                "name": "Heineken",
-                "description": "CERVEJA HEINEKEN LATA - 350ml",
-                "price": "3.69",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 5,
-                "name": "Brahma Duplo Malte",
-                "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
-                "price": "2.79",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
+        {
+            "id": 6,
+            "name": "Skol",
+            "description": "CERVEJA SKOL LATA - 269ml",
+            "price": "1.99",
+            "photo": "./img/produtos/cerveja/cerveja_skol.webp",
+            "category":"2"
+        },
+        {
+            "id": 7,
+            "name": "Brahma",
+            "description": "CERVEJA BRAHMA PILSEN LARGER LATA - 473ml",
+            "price": "2.30",
+            "photo": "./img/produtos/cerveja/cerveja_brahma.webp",
+            "category":"2"
+        },
+        {
+            "id": 8,
+            "name": "Budweiser",
+            "description": "CERVEJA BUDIVIÉSER GARRAFA - 330ml ",
+            "price": "3.29",
+            "photo": "./img/produtos/cerveja/cerveja_budweiser.webp",
+            "category":"2"
+        },
+        {
+            "id": 9,
+            "name": "Heineken",
+            "description": "CERVEJA HEINEKEN LATA - 350ml",
+            "price": "3.69",
+            "photo": "./img/produtos/cerveja/cerveja_heineken.webp",
+            "category":"2"
+        },
+        {
+            "id": 10,
+            "name": "Brahma Duplo Malte",
+            "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
+            "price": "2.79",
+            "photo": "./img/produtos/cerveja/cerveja_brahma-duplo-malte.webp",
+            "category":"2"
+        },
 
-        "champanhe":[
-            {
-                "id": 1,
-                "name": "Chandon",
-                "description": "CHANDON RÉSERVE BRUT - 750ml",
-                "price": "65.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 2,
-                "name": "Sidra",
-                "description": "SIDRA CERESER - 660ml",
-                "price": "8.60",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 3,
-                "name": "Jeroboam Veuve Clicquot",
-                "description": "CHAMPAGNE JEROBOAM VEUVE CLICQUOT BRUT C/ CAIXA DE MADEIRA - 3000ml",
-                "price": "2799.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 4,
-                "name": "San Martin",
-                "description": "ESPUMANTE SAN MARTIN MOSCATEL - 660ml",
-                "price": "16.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 5,
-                "name": "Saint Germain",
-                "description": "ESPUMANTE SAINT GERMAIN ROSÉ DEMI-SEC - 660ml",
-                "price": "19.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
+        {
+            "id": 11,
+            "name": "Chandon",
+            "description": "CHANDON RÉSERVE BRUT - 750ml",
+            "price": "65.90",
+            "photo": "./img/produtos/champanhe/champanhe_chandon.webp",
+            "category":"3"
+        },
+        {
+            "id": 12,
+            "name": "Sidra",
+            "description": "SIDRA CERESER - 660ml",
+            "price": "8.60",
+            "photo": "./img/produtos/champanhe/champanhe_sidra.webp",
+            "category":"3"
+        },
+        {
+            "id": 13,
+            "name": "Jeroboam Veuve Clicquot",
+            "description": "CHAMPAGNE JEROBOAM VEUVE CLICQUOT BRUT C/ CAIXA DE MADEIRA - 3000ml",
+            "price": "2799.99",
+            "photo": "./img/produtos/champanhe/champanhe_jeroboam.webp",
+            "category":"3"
+        },
+        {
+            "id": 14,
+            "name": "San Martin",
+            "description": "ESPUMANTE SAN MARTIN MOSCATEL - 660ml",
+            "price": "16.90",
+            "photo": "./img/produtos/champanhe/champanhe_san-martin.webp",
+            "category":"3"
+        },
+        {
+            "id": 15,
+            "name": "Saint Germain",
+            "description": "ESPUMANTE SAINT GERMAIN ROSÉ DEMI-SEC - 660ml",
+            "price": "19.90",
+            "photo": "./img/produtos/champanhe/champanhe_saint-germain.webp",
+            "category":"3"
+        },
 
-        "conhaque":[
-            {
-                "id": 1,
-                "name": "President",
-                "description": "CONHAQUE DE GENGIBRE PRESIDENT - 970ml",
-                "price": "14.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 2,
-                "name": "Hennessy",
-                "description": "CONHAQUE HENNESSY X.O - 700ml",
-                "price": "1999.00",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 3,
-                "name": "Dreher",
-                "description": "CONHAQUE DE GENGIBRE DREHER - 900ml",
-                "price": "18.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 4,
-                "name": "Armagnac Saint-Vivant",
-                "description": "CONHAQUE ARMAGENAC SAINT-VIVANT VSOP - 700ml",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 5,
-                "name": "Stock - Curaçau Blue",
-                "description": "LICOR CURAÇAU BLUE - 720ml",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
+        {
+            "id": 16,
+            "name": "President",
+            "description": "CONHAQUE DE GENGIBRE PRESIDENT - 970ml",
+            "price": "14.99",
+            "photo": "./img/produtos/conhaque/conhaque_president.webp",
+            "category":"4"
+        },
+        {
+            "id": 17,
+            "name": "Hennessy",
+            "description": "CONHAQUE HENNESSY X.O - 700ml",
+            "price": "1999.00",
+            "photo": "./img/produtos/conhaque/conhaque_hennessy.webp",
+            "category":"4"
+        },
+        {
+            "id": 18,
+            "name": "Dreher",
+            "description": "CONHAQUE DE GENGIBRE DREHER - 900ml",
+            "price": "18.99",
+            "photo": "./img/produtos/conhaque/conhaque_dreher.webp",
+            "category":"4"
+        },
+        {
+            "id": 19,
+            "name": "Armagnac Saint-Vivant",
+            "description": "CONHAQUE ARMAGENAC SAINT-VIVANT VSOP - 700ml",
+            "price": "423.00",
+            "photo": "./img/produtos/conhaque/conhaque_armagnac.webp",
+            "category":"4"
+        },
+        {
+            "id": 20,
+            "name": "Stock - Curaçau Blue",
+            "description": "LICOR CURAÇAU BLUE - 720ml",
+            "price": "36.90",
+            "photo": "./img/produtos/conhaque/conhaque_stock-curacau-blue.webp",
+            "category":"4"
+        },
 
-        "gim" :[
-            {
-                "id": 1,
-                "name": "Tanqueray London Dry",
-                "description": "GIN TANQUERAY LONDON DRY - 750ml",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 2,
-                "name": "Torquay",
-                "description": "GIN TORQUAY - 740ml",
-                "price": "79.99",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 3,
-                "name": "Seagers",
-                "description": "GIN SEAGERS - 980ml",
-                "price": "29.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 4,
-                "name": "Gordons Pink",
-                "description": "GIN GORDONS PINK - 700ml",
-                "price": "94.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 5,
-                "name": "Bulldog",
-                "description": "GIN BULLDOG - 750ml",
-                "price": "179.90",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
+        {
+            "id": 21,
+            "name": "Tanqueray London Dry",
+            "description": "GIN TANQUERAY LONDON DRY - 750ml",
+            "price": "2.30",
+            "photo": "./img/produtos/gin/gin_tanqueray.webp",
+            "category":"5"
+        },
+        {
+            "id": 22,
+            "name": "Torquay",
+            "description": "GIN TORQUAY - 740ml",
+            "price": "79.99",
+            "photo": "./img/produtos/gin/gin_torquay.webp",
+            "category":"5"
+        },
+        {
+            "id": 23,
+            "name": "Seagers",
+            "description": "GIN SEAGERS - 980ml",
+            "price": "29.30",
+            "photo": "./img/produtos/gin/gin_seagers.webp",
+            "category":"5"
+        },
+        {
+            "id": 24,
+            "name": "Gordons Pink",
+            "description": "GIN GORDONS PINK - 700ml",
+            "price": "94.90",
+            "photo": "./img/produtos/gin/gin_gordons.webp",
+            "category":"5"
+        },
+        {
+            "id": 25,
+            "name": "Bulldog",
+            "description": "GIN BULLDOG - 750ml",
+            "price": "179.90",
+            "photo": "./img/produtos/gin/gin_bulldog.webp",
+            "category":"5"
+        },
+        {
+            "id": 26,
+            "name": "The Kraken",
+            "description": "RUM THE KRAKEN - 750ml",
+            "price": "124.90",
+            "photo": "./img/produtos/rum/rum_the-kraken.webp",
+            "category":"6"
+        },
+        {
+            "id": 27,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"6"
+        },
+        {
+            "id": 28,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"6"
+        },
+        {
+            "id": 29,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"6"
+        },
+        {
+            "id": 30,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"6"
+        },
+        {
+            "id": 31,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"7"
+        },
+        {
+            "id": 32,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"7"
+        },
+        {
+            "id": 33,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"7"
+        },
+        {
+            "id": 34,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"7"
+        },
+        {
+            "id": 35,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"7"
+        },
 
-        "rum":[
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
-
-        "tequila":[
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
-
-        "vinho":[
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
-
-        "vodka":[
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-        ],
-        
-        "whisky":[
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            },
-            {
-                "id": 1,
-                "name": "Maçã",
-                "description": "",
-                "price": "2.30",
-                "photo": "URL ou o caminho do arquivo no seu projeto"
-            }
-
-        ]
-     }
+        {
+            "id": 36,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"8"
+        },
+        {
+            "id": 37,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"8"
+        },
+        {
+            "id": 38,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"8"
+        },
+        {
+            "id": 39,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"8"
+        },
+        {
+            "id": 40,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"8"
+        },
+        {
+            "id": 41,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"9"
+        },
+        {
+            "id": 42,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"9"
+        },
+        {
+            "id": 43,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"9"
+        },
+        {
+            "id": 44,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"9"
+        },
+        {
+            "id": 45,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"9"
+        },
+        {
+            "id": 46,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"10"
+        },
+        {
+            "id": 47,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"10"
+        },
+        {
+            "id": 48,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"10"
+        },
+        {
+            "id": 49,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"10"
+        },
+        {
+            "id": 50,
+            "name": "Maçã",
+            "description": "",
+            "price": "2.30",
+            "photo": "./img/construction.png",
+            "category":"10"
+        }
     ],
     "carrinho": [
 

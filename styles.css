@@ -54,16 +54,12 @@ div.card-body{
 
 nav.navbar.navbar-expand-lg.navbar-light { 
     background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
-<<<<<<< HEAD
-    color:#e2e2e2
-=======
 
 }
 
 #navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
     text-decoration: none;
     color: #e2e2e2;
->>>>>>> 3453fda992fb0da58eab948c6d5111f189535dbb
 }
 
 img.d-block {
