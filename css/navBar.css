@@ -7,7 +7,6 @@ nav.navbar.navbar-expand-lg.navbar-light {
     color: #670000;
     background: #e2e2e2;
 }
-
 #navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
     text-decoration: none;
     color: #e2e2e2;
@@ -16,12 +15,13 @@ nav.navbar.navbar-expand-lg.navbar-light {
     border: 50%;
     height:5rem;
     width: 10rem;
-}
-.btn-btn-outline-success-my-4-my-sm-0 {
-    color: #670000;
+} 
+.btn-outline-success {
+    color: black;
     border-color: #e2e2e2;
 }
-.btn-btn-outline-success-my-4-my-sm-0:hover {
-    background: #e2e2e2;
-}
+/* .btn-outline-success:hover {
+    background:#e2e2e2;
+}  */
+ 
 

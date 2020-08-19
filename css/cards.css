@@ -1,6 +1,7 @@
 body {
     background-color:#f4eded;
     height: 100vh;
+    display: grid;
 }
 
 .card-img-top {
