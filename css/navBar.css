@@ -12,3 +12,8 @@ nav.navbar.navbar-expand-lg.navbar-light {
     text-decoration: none;
     color: #e2e2e2;
 }
+.logo-navBar {
+    border: 50%;
+    height:5rem;
+    width: 10rem;
+}

@@ -60,7 +60,7 @@ function abrirCarrinho(){
     const id = document.querySelector(".ID").textContent;
     const nome = document.querySelector(".nome").textContent;
     const preco = document.querySelector(".preco").textContent;
-   const qtd = document.querySelector("#qtdID").value;
+    const qtd = document.querySelector("#qtdID").value;
    
 
     carro.adicionar(id, nome, preco, qtd);
@@ -105,9 +105,7 @@ class Carrinho{
      
 		};
     if(this.itens.qtd<1){this.itens.qtd=1;}    
-		this.carrinho.push(this.itens);
-       
-    		
+		this.carrinho.push(this.itens);	
 	} 
 	
 	visualizar(){

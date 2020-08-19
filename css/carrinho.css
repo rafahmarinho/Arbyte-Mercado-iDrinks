@@ -1,3 +1,12 @@
+body {
+    background: #e2e2e2;
+    height: 100vh;
+}
+
+.poppinsFont {
+    font-family: Poppins;
+}
+
 form #page-carrinho, .delivery {
     padding: 20px;
     color:#670000;
@@ -6,23 +15,9 @@ form #page-carrinho, .delivery {
     height: 100%;
 }
 
-body .corpo{
-    width: 100%;
-    height: 100%;
-    background: #e2e2e2;
-}
-
-.logo-navBar {
-    border: 50%;
-    height:5rem;
-    width: 10rem;
-}
-
-
-
 #formulario {
-    font-size: 27px;
-    font-style: italic;
+    font-size: 20px;
+    font-style: Poppins;
     margin: 0 0 20px;
     padding: 10px 25px;
     border-radius: 10px;
@@ -60,26 +55,7 @@ input, #inputCEP, #inputAddress, #inputAddress2, #inputCity, #inputEstado {
     height: 50px;
     color:#670000;
     border-radius: 10px;
-    border-color: #670000;
+    border: #670000 2px solid;
     font-size: 25px; 
-    margin-left: 24px;
-}    
-
-/* configurando rodapé*/
-footer {
-    text-align: center;
-    width:100%;
-    height: 100%;
-    background-color: #670000
-}
-
-.copyright {
-	color: #e2e2e2;
-	font-size: 20px;
-    margin: 20px 0 0;
-    height: 100%
-    
-}
-img {
-    width: 150px;
-}
+    margin: 24px;
+} 

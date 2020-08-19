@@ -28,7 +28,7 @@ Tem que ser feito com html, css e js
 - pode consultar o http://codepen.io
 - precisa estar no github e estar com commits por partes (não um só commit com o projeto pronto)
 1. Quero acessar uma página onde consigo escolher produtos para fazer a minha compra
-  - Lista de produtos com NOME, PREÇO e FOTO
+  - Lista de produtos com NOME, PREÇO e FOTO  == OK
 2. Quero poder escolher a quantidade do produto e adicioná-lo ao carrinho
   - Tem que ter um input onde o usuário digita um número e adiciona aquela quantidade ao carrinho
     Verificar se o usuário REALMENTE preencheu uma quantidade para adicionar o produto ao carrinho
