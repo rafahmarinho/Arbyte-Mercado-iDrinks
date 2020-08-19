@@ -17,3 +17,11 @@ nav.navbar.navbar-expand-lg.navbar-light {
     height:5rem;
     width: 10rem;
 }
+.btn-btn-outline-success-my-4-my-sm-0 {
+    color: #670000;
+    border-color: #e2e2e2;
+}
+.btn-btn-outline-success-my-4-my-sm-0:hover {
+    background: #e2e2e2;
+}
+
