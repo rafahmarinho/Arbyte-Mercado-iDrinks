@@ -1,7 +1,6 @@
 body {
     background-color:#f4eded;
     height: 100vh;
-    
 }
 
 .card-img-top {
@@ -52,46 +51,11 @@ div.card-body {
     margin: 8px;
 }
 
-<<<<<<< HEAD
-=======
-nav.navbar.navbar-expand-lg.navbar-light { 
-    background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
-
-}
-
-#navbarSupportedContent ul.navbar-nav.mr-auto li.nav-item a.nav-link{
-    text-decoration: none;
-    color: #e2e2e2;
-}
-
->>>>>>> rafa
 img.d-block {
     width: 1150px;
     height: 400px;
 } /* Adicionado Dimensões do carousel 15-08*/ 
 
-/* .bg-footer{
-    background-color: #670000;
-    color: #e2e2e2;
-} Retirado o footer de bolha e colocado um footer normal */
-
 #quantity{
     margin: 5px;
-}
-/*configurando rodapé*/
-footer {
-    text-align: center;
-    width: 100%;
-    background-color: #670000;
-}
-
-.copyright {
-	color: #e2e2e2;
-	font-size: 20px;
-    margin: 20px 0 0;
-    
-}
-img {
-    width: 150px;
-
 }
