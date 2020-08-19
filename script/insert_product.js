@@ -15,6 +15,20 @@ function addProduct (url){
                                     name="quantity" value="1" title="Qtd" size="4" placeholder="" inputmode="numeric">
                                     <a id="clienteComprou${i}" class="btn btn-light">Comprar</a>`   
                 document.getElementById("insertCardHere").appendChild(insert)
+
+                document.getElementById(`clienteComprou${i}`).addEventListener("click",function () {
+                    
+                     axios.post(`http://localhost:3000/carrinho`, {
+                             name: "Cabaré",
+                             description: "CACHAÇA CABARÉ OURO - 700ml",
+                             price: 26.99,
+                             photo: "./img/produtos/cachaca/cachaca_cabare.webp",
+                             category: 1
+                     }
+                     )}
+
+                })
+    }
             }
         })
         }
