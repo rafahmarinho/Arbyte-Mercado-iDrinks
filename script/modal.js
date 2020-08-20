@@ -55,13 +55,10 @@ function abrirCarrinho(){
     fraseVazio.style.display = "none";
     modalFooter.style.display = "block";
       
-   
-   
     const id = document.querySelector(".ID").textContent;
     const nome = document.querySelector(".nome").textContent;
     const preco = document.querySelector(".preco").textContent;
     const qtd = document.querySelector("#qtdID").value;
-   
 
     carro.adicionar(id, nome, preco, qtd);
     

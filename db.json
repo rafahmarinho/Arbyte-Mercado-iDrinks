@@ -403,39 +403,108 @@
   ],
   "carrinho": [
     {
+      "id": 1,
+      "name": "Ypióca",
       "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
       "price": "16.90",
       "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
-      "category": "1",
-      "id": 1
+      "category": "1"
     },
     {
+      "id": 2,
+      "name": "51",
       "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
       "price": "9.29",
       "photo": "./img/produtos/cachaca/cachaca_51.webp",
-      "category": "1",
-      "id": 2
+      "category": "1"
     },
     {
-      "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
-      "price": "89.90",
-      "photo": "./img/produtos/cachaca/cachaca_dama-da-noite.webp",
-      "category": "1",
-      "id": 3
+      "id": 3,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
     },
     {
-      "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
-      "price": "2.79",
-      "photo": "./img/produtos/cerveja/cerveja_brahma-duplo-malte.webp",
-      "category": "2",
-      "id": 4
+      "id": 4,
+      "name": "Ypióca",
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1"
     },
     {
-      "description": "RUM THE KRAKEN - 750ml",
-      "price": "124.90",
-      "photo": "./img/produtos/rum/rum_the-kraken.webp",
-      "category": "6",
-      "id": 5
+      "id": 5,
+      "name": "Ypióca",
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1"
+    },
+    {
+      "id": 6,
+      "name": "Ypióca",
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1"
+    },
+    {
+      "id": 7,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
+    },
+    {
+      "id": 8,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
+    },
+    {
+      "id": 9,
+      "name": "51",
+      "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
+      "price": "9.29",
+      "photo": "./img/produtos/cachaca/cachaca_51.webp",
+      "category": "1"
+    },
+    {
+      "id": 10,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
+    },
+    {
+      "id": 11,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
+    },
+    {
+      "id": 12,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
+    },
+    {
+      "id": 13,
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
+      "category": "1"
     }
   ]
 }

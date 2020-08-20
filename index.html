@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="./css/cards.css">
   <link rel="stylesheet" href="./css/footer.css">
   <link rel="stylesheet" href="./css/navBar.css">
+  <link rel="stylesheet" href="./css/modal-carrinho.css">
   <script src="./script/insert_product.js"></script>
 </head>
 
@@ -47,6 +48,10 @@
         <li class="nav-item">
           <a class="nav-link" href="./pages/carrinho.html">Carrinho</a>
         </li>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+          Launch demo modal
+        </button>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Categorias</a>
@@ -107,13 +112,42 @@
           </a>
         </div>
 
-  <!-- ITENS -->
-  <div class="container text-center" >
-    <div class="row cards" id="insertCardHere">
+<!-- ITENS -->
+<div class="container text-center" >
+  <div class="row cards" id="insertCardHere">
+  </div>
+</div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Carrinho</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" id="insertProduct">
+        <!-- foto,nome,preço,quantidade, x de excluir -->
+        <img class="imgModal" src="./img/produtos/cerveja/cerveja_brahma.webp" alt= "aaaa">
+        <small>Cerveja Brahma</small>
+        <small>AQUI FICA A DESCRIÇÃO</small>
+        <input type="number" name="" id="">
+        <small>R$ 10,00</small>
+        <img id="excluirProduto" src="./img/others/close.png" alt="fechar">
+        <div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+        <button type="button" class="btn btn-primary">Finalizar Compra</button>
+      </div>
     </div>
   </div>
-    </div>
-  </div>
+</div>
 
   <!-- end content -->
 </div>
