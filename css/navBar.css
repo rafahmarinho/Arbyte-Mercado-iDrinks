@@ -49,9 +49,11 @@ button.btn.btn-primary {
 .btn-outline-success {
     color: #670000;
     border-color: #670000;
+    background-color: #e2e2e2;
 }
 .btn-outline-success:hover {
-    background: #e2e2e2;
+    background-color: green;
     border-color: #e2e2e2;
 }
+
 

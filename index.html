@@ -43,15 +43,20 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#">Promoções</a>
+          <a type="button" class="nav-link" data-toggle="modal" data-target="#exampleModal">Carrinho</a>
         </li>
         <li class="nav-item">
+<<<<<<< HEAD
           <a class="nav-link" href="./pages/carrinho.html">Delivery</a>
         </li>
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
           Carrinho
         </button>
+=======
+          <a class="nav-link" href="./pages/delivery.html">Delivery</a>
+        </li>
+>>>>>>> f581974bd96a731d61fc840656173817f62e7241
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Categorias</a>
@@ -132,17 +137,11 @@
       </div>
       <div class="modal-body" id="insertProduct">
         <!-- foto,nome,preço,quantidade, x de excluir -->
-        <img class="imgModal" src="./img/produtos/cerveja/cerveja_brahma.webp" alt= "aaaa">
-        <!-- <small>Cerveja Brahma</small>
-        <small>AQUI FICA A DESCRIÇÃO</small>
-        <input type="number" name="" id="">
-        <small>R$ 10,00</small> -->
-        <img id="excluirProduto" src="./img/others/close.png" alt="fechar">
-        <div>
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer" id="somaTotalHere">
+        <p>Total: R$ 0,00</p>
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-        <button type="button" id="comprar" class="btn btn-primary">Finalizar Compra</button>
+        <button type="button" id="compraFinalizada" class="btn btn-primary">Finalizar Compra</button>
       </div>
     </div>
   </div>

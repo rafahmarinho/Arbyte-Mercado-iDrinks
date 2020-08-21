@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "name": "Dama da Noite - Caveira",
+      "name": "Dama da Noite",
       "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
       "price": "89.90",
       "photo": "./img/produtos/cachaca/cachaca_dama-da-noite.webp",
@@ -98,7 +98,7 @@
     },
     {
       "id": 13,
-      "name": "Jeroboam Veuve Clicquot",
+      "name": "Jeroboam Veuve ",
       "description": "CHAMPAGNE JEROBOAM VEUVE CLICQUOT BRUT C/ CAIXA DE MADEIRA - 3000ml",
       "price": "2799.99",
       "photo": "./img/produtos/champanhe/champanhe_jeroboam.webp",
@@ -146,7 +146,7 @@
     },
     {
       "id": 19,
-      "name": "Armagnac Saint-Vivant",
+      "name": "Saint-Vivant",
       "description": "CONHAQUE ARMAGENAC SAINT-VIVANT VSOP - 700ml",
       "price": "423.00",
       "photo": "./img/produtos/conhaque/conhaque_armagnac.webp",
@@ -154,7 +154,7 @@
     },
     {
       "id": 20,
-      "name": "Stock - Curaçau Blue",
+      "name": "Curaçau Blue",
       "description": "LICOR CURAÇAU BLUE - 720ml",
       "price": "36.90",
       "photo": "./img/produtos/conhaque/conhaque_stock-curacau-blue.webp",
@@ -162,7 +162,7 @@
     },
     {
       "id": 21,
-      "name": "Tanqueray London Dry",
+      "name": "Tanqueray London",
       "description": "GIN TANQUERAY LONDON DRY - 750ml",
       "price": "2.30",
       "photo": "./img/produtos/gin/gin_tanqueray.webp",
@@ -404,101 +404,22 @@
   "carrinho": [
     {
       "id": 1,
-      "name": "Ypióca",
-      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
-      "price": "16.90",
-      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "name": "Cabaré",
+      "description": "CACHAÇA CABARÉ OURO - 700ml",
+      "price": "26.99",
+      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
       "category": "1"
     },
     {
       "id": 2,
-      "name": "51",
-      "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
-      "price": "9.29",
-      "photo": "./img/produtos/cachaca/cachaca_51.webp",
+      "name": "Dama da Noite",
+      "description": "CACHAÇA DAMA DA NOITE CAVEIRA LA CATRINA CARVALHO - 750ml",
+      "price": "89.90",
+      "photo": "./img/produtos/cachaca/cachaca_dama-da-noite.webp",
       "category": "1"
     },
     {
-      "id": 3,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
-      "id": 4,
-      "name": "Ypióca",
-      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
-      "price": "16.90",
-      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
-      "category": "1"
-    },
-    {
-      "id": 5,
-      "name": "Ypióca",
-      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
-      "price": "16.90",
-      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
-      "category": "1"
-    },
-    {
-      "id": 6,
-      "name": "Ypióca",
-      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
-      "price": "16.90",
-      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
-      "category": "1"
-    },
-    {
-      "id": 7,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
-      "id": 8,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
-      "id": 9,
-      "name": "51",
-      "description": "AGUARDENTE 51 PIRASSUNUNGA - 965ml",
-      "price": "9.29",
-      "photo": "./img/produtos/cachaca/cachaca_51.webp",
-      "category": "1"
-    },
-    {
-      "id": 10,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
-      "id": 11,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
-      "id": 12,
-      "name": "Cabaré",
-      "description": "CACHAÇA CABARÉ OURO - 700ml",
-      "price": "26.99",
-      "photo": "./img/produtos/cachaca/cachaca_cabare.webp",
-      "category": "1"
-    },
-    {
+<<<<<<< HEAD
       "id": 13,
       "name": "Cabaré",
       "description": "CACHAÇA CABARÉ OURO - 700ml",
@@ -625,6 +546,14 @@
       "price": "16.90",
       "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
       "category": "1"
+=======
+      "id": 3,
+      "name": "Brahma Duplo Malte",
+      "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
+      "price": "2.79",
+      "photo": "./img/produtos/cerveja/cerveja_brahma-duplo-malte.webp",
+      "category": "2"
+>>>>>>> f581974bd96a731d61fc840656173817f62e7241
     }
   ]
 }
