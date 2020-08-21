@@ -419,7 +419,6 @@
       "category": "1"
     },
     {
-<<<<<<< HEAD
       "id": 13,
       "name": "Cabaré",
       "description": "CACHAÇA CABARÉ OURO - 700ml",
@@ -546,14 +545,88 @@
       "price": "16.90",
       "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
       "category": "1"
-=======
-      "id": 3,
+    }
+    {
+      "id": 29,
       "name": "Brahma Duplo Malte",
       "description": "CERVEJA BRAHMA DUPLO MALTE LATA - 350ml",
       "price": "2.79",
       "photo": "./img/produtos/cerveja/cerveja_brahma-duplo-malte.webp",
       "category": "2"
->>>>>>> f581974bd96a731d61fc840656173817f62e7241
+      "category": "2",
+      "id": 4
+    },
+    {
+      "description": "RUM THE KRAKEN - 750ml",
+      "price": "124.90",
+      "photo": "./img/produtos/rum/rum_the-kraken.webp",
+      "category": "6",
+      "id": 5
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 6
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 7
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 8
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 9
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 10
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 11
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 12
+    },
+    {
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Ypióca",
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1"
+>>>>>>> dandara
     }
   ]
 }
