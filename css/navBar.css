@@ -1,6 +1,35 @@
 nav.navbar.navbar-expand-lg.navbar-light { 
-    background-color: #670000; /*Mudei a cor da NavBar, poderiam ver de colocar a cor #e2e2e2 nas categorias, não estou conseguindo*/
+    background-color: #670000; /*Mudei a cor da NavBar */
 }
+
+/*mudando o botão do carrinho na nav bar*/
+button.btn.btn-primary {
+    color: #e2e2e2;
+    background: none;
+}
+.btn-primary {
+    border-color: #670000;
+    border: none;
+    border-color: none;
+}
+
+.btn-primary:focus {
+    box-shadow: none;
+    border-color: none;
+}
+
+.btn-primary:hover {
+    background: #670000;
+}
+
+/*modificando a cor do botão de "finalizar compra"*/
+#comprar, .btn-btn-primary {
+    background: #670000;
+    color: #e2e2e2;
+    text-align: center;
+    border-color: #e2e2e2;
+}
+
 
 /* mudando as categorias para a cor #670000 e a cor de fundo para a #e2e2e2...*/
 .dropdown-menu, .dropdown-item {
@@ -16,12 +45,13 @@ nav.navbar.navbar-expand-lg.navbar-light {
     height:5rem;
     width: 10rem;
 } 
+/*mudando a cor do botão buscar*/
 .btn-outline-success {
-    color: black;
+    color: #670000;
+    border-color: #670000;
+}
+.btn-outline-success:hover {
+    background: #e2e2e2;
     border-color: #e2e2e2;
 }
-/* .btn-outline-success:hover {
-    background:#e2e2e2;
-}  */
- 
 

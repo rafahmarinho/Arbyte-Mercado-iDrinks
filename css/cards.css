@@ -7,11 +7,15 @@ body {
 .card-img-top {
     border-bottom: 1px solid;
     border: .8rem;
+    width: 200px;
+    height: 200px;
+    
 }
 .card{
     border: 1px solid  grey;
     border: .8rem;
     margin: 15px auto;
+    
 }
 
 .btn {
@@ -60,3 +64,4 @@ img.d-block {
 #quantity{
     margin: 5px;
 }
+

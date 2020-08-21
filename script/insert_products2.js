@@ -14,9 +14,9 @@ function addProductToCart (url){
                     name="quantity" value="1" title="Qtd" size="4" placeholder="" inputmode="numeric">
                     <a id="clienteComprou${i}" class="btn btn-light">Comprar</a>`   
                     document.getElementById("insertProduct").appendChild(insertProduct)
-        )}
-}  
-
+        }
+    
+    }
  window.onload = function () {
      addProductToCart(url)
  }
