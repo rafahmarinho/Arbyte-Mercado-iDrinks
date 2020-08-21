@@ -492,6 +492,14 @@
       "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
       "category": "1",
       "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Ypióca",
+      "description": "CACHAÇA YPIÓCA CONTA GOTA OURO - 965ml",
+      "price": "16.90",
+      "photo": "./img/produtos/cachaca/cachaca_ypioca.webp",
+      "category": "1"
     }
   ]
 }
