@@ -23,11 +23,9 @@
     <!-- axios import -->
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script> 
     <!-- local import -->
-    <link rel="stylesheet" href="../css/carrinho.css">
-    <link rel="stylesheet" href="../css/modal-carrinho.css">
+    <link rel="stylesheet" href="../css/delivery.css">
     <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet" href="../css/navBar.css">
-    <script src="../script/modal.js"></script>
     <script src="../script/insert_product2.js"></script>
 </head>
 
@@ -45,10 +43,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#">Promoções</a>
+          <a type="button" class="nav-link" data-toggle="modal" data-target="#exampleModal">Carrinho</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../pages/carrinho.html">Carrinho</a>
+          <a class="nav-link" href="../pages/delivery.html">Delivery</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -147,43 +145,7 @@
         </div>
     </div>
 </div>
-    
-    <button id="comprar-bt" onclick="abrirCarrinho()">Comprar</button>
-
-
-        <!-- Trigger/Open The Modal -->
-        <a href="#" id="meu-carrinho" onclick="abrirCarrinho()">
-            <i id="icone-carrinho" class="fa fa-cart-arrow-down fa-2x" aria-hidden="true"></i>
-        </a>
-
-        <!-- The Modal -->
-        <div id="myModal" class="modal">
-
-            <!-- Modal content -->
-            <div class="modal-content">
-                <div class="modal-header">
-                    <span class="close">&times;</span>
-                    <h2>Carrinho</h2>
-                </div>
-                <div class="modal-body" id="insertProduct">
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-                    <p>Seu carrinho está vazio.</p>
-
-
-                </div>
-                <div class="modal-footer">
-                    <h3>Subtotal:
-                        <span id="total"></span>
-                    </h3>
-                    <button id="ver-carrinho">Ver carrinho</button>
-                </div>
-            </div>
-        </div>
+    <button id="comprar-bt">Comprar</button>
     </form>
 
 <!-- footer -->

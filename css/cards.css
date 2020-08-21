@@ -7,6 +7,8 @@ body {
 .card-img-top {
     border-bottom: 1px solid;
     border: .8rem;
+    width: 247.5px;
+    height: 247.5px;
 }
 .card{
     border: 1px solid  grey;
@@ -14,14 +16,16 @@ body {
     margin: 15px auto;
 }
 
-.btn {
-     color: black;
+.btn.btn-light {
+     color: #670000;
      background-color: #e2e2e2;
     
 }/* Mudando a cor do texto do botão antes do click e a cor do botão- 15-08*/
     
 div.card-body {
-        background-color:#670000;
+    background-color:#670000;
+    width: 247.5px;
+    height: 194px;
 } /*Alterado cor do card*/
     
 .card-title {
